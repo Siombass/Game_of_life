@@ -1,6 +1,5 @@
 //Game of Life
 
-
 function make2DArray(cols, rows)
 {
 	let arr = new Array(cols);
